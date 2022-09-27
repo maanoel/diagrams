@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T19:52:25.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84" etag="lQ56DBu5AGcAhb7j3ZnO" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T21:59:40.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84" etag="TNKcV2i1p_94yfD0tyKI" version="20.3.7" type="github">
   <diagram id="qlqrQ8tRjtu1ritACzjV" name="Página-1">
     <mxGraphModel dx="2500" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-244" y="590" width="1053" height="490" as="geometry" />
         </mxCell>
         <mxCell id="EhoqWdMSPW2L86Gc-47y-18" value="PrescricaoEspecialidadesEstrutura" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-244" y="126" width="1064" height="439" as="geometry" />
+          <mxGeometry x="-244" width="1064" height="565" as="geometry" />
         </mxCell>
         <mxCell id="EhoqWdMSPW2L86Gc-47y-19" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;BuscaComponent&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="150" width="220" height="90" as="geometry" />
@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EhoqWdMSPW2L86Gc-47y-27" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;CabecalhoCorpoComponent&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="540" y="230" width="220" height="90" as="geometry" />
+          <mxGeometry x="540" y="210" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="EhoqWdMSPW2L86Gc-47y-28" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="EhoqWdMSPW2L86Gc-47y-27" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -440,6 +440,14 @@
         </mxCell>
         <mxCell id="Taa8852InjMAeC0XrrfV-25" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Taa8852InjMAeC0XrrfV-23">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Taa8852InjMAeC0XrrfV-26" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;OpcoesAvancadasComponent&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Taa8852InjMAeC0XrrfV-27" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Taa8852InjMAeC0XrrfV-26">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
